@@ -11,6 +11,6 @@ This project combines document processing, embeddings, chatbot capabilities, and
 - Create a memory object to track inputs and outputs during conversations.
 - Implement a Conversation Retrieval QA Chain for context-aware replies.
 
-### the document we used for interaction : 
+### the document i used for interaction : 
 
 [IFT7005_Project_Poster.pdf](https://github.com/SE-Khalil75/Chat_with_Documents_Llama2/files/12887227/IFT7005_Project_Poster.pdf)
